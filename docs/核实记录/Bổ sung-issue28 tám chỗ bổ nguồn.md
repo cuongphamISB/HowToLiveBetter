@@ -1,0 +1,32 @@
+# số #28: Tám mục bổ sung nguồn (2026-09-23)
+
+Nguồn nhiệm vụ: GitHub số #28 (dlgrv). Đề xuất bổ sung tài liệu gốc cho 8 mục được đánh dấu "Kinh nghiệm tác giả," "Đang chờ xử lý," và "TODO," mỗi mục đều có trích dẫn và liên kết. Các trích dẫn trong số báo chỉ được xem là gợi ý; mỗi mục trong bảng dưới đây là xác minh nguyên văn mà tôi đã thu thập trong vòng này. 
+
+## Kiểm tra và xử lý từng món đồ một
+
+| Mục nhập | Nguồn | Đánh giá | Những điểm chính của văn bản gốc | Xử lý |
+|---|---|---|---|---|
+| Mục 13, Mục 18 (Điện giật) | <https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-from-electrical-hazards.html> | Có (cuộn 403, lấy bằng Chrome không đầu) | Sơ cứu Mục 1: "Nhìn trước Đừng chạm vào. Người đó có thể vẫn tiếp xúc với nguồn điện.」「Tắt nguồn điện nếu có thể. Nếu không, hãy di chuyển nguồn điện ra xa bạn và người bị ảnh hưởng bằng vật không dẫn điện làm bằng bìa cứng, nhựa hoặc gỗ.」「Nếu đã dừng hoặc có vẻ chậm hoặc nông nguy hiểm, hãy bắt đầu hồi sức tim phổi (CPR) ngay lập tức.」 | Đồng ý |
+| Tương tự như trên | <https://doi.org/10.7326/0003-4819-145-7-200610030-00011> (Spies & Trohman 2006) | Có (Tóm tắt PMC châu Âu) | 「Bệnh nhân được hồi sức thành công sau ngừng tim phổi thường có tiên lượng thuận lợi」 | Được chấp nhận |
+| Tương tự như trên | Moran 1986 JAMA(10.1001/jama.1986.03370160055007) | Không | Europe PMC không có bản tóm tắt, nội dung không thể xác minh | Không được thông qua |
+| Giống như trên | ERC 2021 Trường hợp Đặc biệt Ngừng Tim (10.1016/j.resuscitation.2021.02.011) | Có (Tóm tắt) | Không có sốc điện trong các lý do, kịch bản và nhóm đặc biệt được liệt kê trong tóm tắt; số báo ghi chương 'Phiên bản 2021 không có sốc điện' là đúng | Đã xóa khỏi phần nguồn; Phần nguồn gốc nói rằng nó 'chứa phần sốc điện' là không chính xác |
+| Mục 20, Mục 9 (Không lắc trẻ sơ sinh) | <https://doi.org/10.15585/mmwr.mm6520a1> (MMWR 2016) | Có (Tóm tắt) | "Trong giai đoạn này, AHT đã gây ra gần 2.250 ca tử vong ở trẻ em cư trú tại Hoa Kỳ từ <5 tuổi" | Được thông qua | | Ibid. | <https://doi.org/10.1007/s00247-018-4149-1> (Tuyên bố Đồng thuận Choudhary 2018) | Có (Tóm tắt) | 「Chấn thương đầu do bạo hành (AHT) là nguyên nhân hàng đầu gây tử vong do chấn thương đầu ở trẻ dưới 2 tuổi」; Nguyên nhân là "đa yếu tố (rung lắc, rung lắc, va chạm, v.v.)"; 「tụ máu dưới màng cứng... xuất huyết võng mạc phức tạp」 | Được chấp nhận |
+| Giống như trên | Phiên bản xác nhận AAP (10.1542/peds.2018-1504) | Chưa xác minh | Xác nhận cùng nội dung như tuyên bố đồng thuận, không bổ sung | Không được chấp nhận |
+| Mục 13, Điều 27 (Vùng đất không người) | <https://www.nps.gov/articles/000/desertdrivingsafety.htm> | Có (quay trực tiếp bằng curl) | 「Ở lại với xe là điều quan trọng nhất bạn có thể làm trong trường hợp khẩn cấp. Mặc dù không thường xuyên, có người đã chết vì tiếp xúc khi cố gắng đi bộ trở lại đường nhựa.」 | Được chấp nhận, mức độ không thay đổi |
+| Mục 4, Khoản 15 (Giới hạn Thư rác màn hình) | Báo cáo CNNIC lần thứ 56 PDF | Có (pdftotext có thể được vẽ từng chữ bằng tiếng Trung) | Dòng 821: "Tính đến tháng 6 năm 2025, thời gian sử dụng internet trung bình hàng tuần của người dùng internet Trung Quốc là 30,6 giờ, tăng 1,9 giờ so với tháng 12 năm 2024"; Dòng 94: "Người dùng video ngắn đạt 1,068 tỷ người, chiếm 95,1% tổng số người dùng internet" | Được chấp nhận, TODO đã gỡ bỏ |
+| Mục 5, Mục 17 (Quỹ chỉ số) | Bảng điểm SPIVA U.S. Cuối năm 2024 | Có (Trang web chính thức 403 và Chrome không tên bị từ chối, nhấn Wayback 2025-05-12 snapshot xác minh) | 「65% tất cả các quỹ cổ phiếu vốn hóa lớn hoạt động tại Mỹ có hiệu suất thấp hơn S&P 500, thấp hơn tỷ lệ 60% quan sát năm 2023 và cao hơn một chút so với mức trung bình hàng năm 64% được báo cáo trong 24 năm」; 「Trong 15 năm kết thúc vào tháng 12 năm 2024, không có hạng mục nào mà đa số các nhà quản lý hoạt động vượt trội.」 | Được chấp nhận, TODO đã loại bỏ. Điều bài viết thiếu là con số "dài hạn", nên ngoài vấn đề trích dẫn 65% trong một năm, cộng với mức trung bình 24 năm và kết luận 15 năm |
+| Tương tự như trên | Bảng điểm tổ chức SPIVA cuối năm 2024 PDF | Không sử dụng | Tài khoản tổ chức và tài khoản wrap, độc giả thông thường không thể mua các sản phẩm này | Không được chấp nhận |
+| Mục 14, Khoản 2 (Mật khẩu Email) | <https://www.cisa.gov/secure-our-world/use-strong-passwords> | Có (truy xuất trực tiếp curl) | 「Tạo mật khẩu dài, ngẫu nhiên, duy nhất với trình quản lý mật khẩu」; 「Ít nhất 16 ký tự—dài hơn là mạnh!」; 「Sử dụng mật khẩu mạnh khác nhau cho mỗi tài khoản」 | Được chấp nhận, cấp độ không thay đổi |
+| Mục 14, Khoản 3 (Mã PIN SIM) | FCC DOC-398483A1 (Thông cáo báo chí ngày 15-11-2023) | Có (pdftotext) | Điều này liên quan đến việc các nhà điều hành xác minh danh tính trước khi chuyển số hoặc thay thế thẻ, nhắm vào các chiêu trò thay thế thẻ "mà không bao giờ kiểm soát được điện thoại của người tiêu dùng vật lý" | **Không chấp nhận**. Bài viết ngăn chặn việc tháo điện thoại hoặc thẻ bị mất và lắp vào điện thoại khác, trong trường hợp bên kia có thẻ vật lý; hai vấn đề này không giống nhau |
+| Mục 14, Khoản 4 (Mất điện thoại) | <https://www.fcc.gov/consumers/guides/protect-your-mobile-device> | Có (curl 403, lấy qua Chrome không đầu truyện) | 「Ngay cả khi bạn nghĩ mình chỉ mất thiết bị, bạn nên khóa từ xa để đảm bảo an toàn. Nếu thiết bị bị đánh cắp, hãy ngay lập tức báo cáo vụ trộm cắp cho cảnh sát, bao gồm hãng và mẫu mã, số serial và số IMEI hoặc MEID hoặc ESN.」「Báo cáo ngay việc mất cắp hoặc mất mát cho nhà cung cấp dịch vụ của bạn.」 | Được chấp nhận; Trình tự các bước vẫn dựa trên kinh nghiệm của tác giả, với phần nguồn được liệt kê rõ ràng |
+
+## Phân loại
+
+**Chỉ có hai mục thay đổi điểm số: Mục 13, Điều 18, và Mục 20, Điều 9, cả hai đều được nâng từ C lên B. ** Cả hai tiêu chí này hiện đều có hướng dẫn chính thức hoặc sự đồng thuận chuyên môn, và có một nghiên cứu khác ủng hộ chúng, nhưng không tiêu chí nào có thể chuyển trực tiếp thành số "số ca tử vong ít hơn mỗi ngày", được xem là B theo tiêu chuẩn. 
+
+Các mục khác vẫn giữ nguyên. Các mẹo vận hành chính thức (NPS, CISA, FCC) không phải là nghiên cứu; theo quy ước của sách, C vẫn được sử dụng (Mục 13 và 27 luôn được xử lý như vậy). Mục 4 và 5 chỉ loại bỏ TODO và thêm số, nhưng mức độ vẫn không thay đổi. 
+
+## Những nơi chưa làm theo từng vấn đề
+
+- Bản dịch không phù hợp với kho này (CLAUDE.md quy định); lần này chỉ xử lý các đề xuất nguồn gốc cho văn bản gốc tiếng Trung. 
+- Đề xuất vấn đề có thể được khởi động trực tiếp dưới dạng PR. Vòng này đã được thay đổi tại địa phương, không cần PR.

@@ -1,0 +1,36 @@
+# số #37: Cách đăng ký các chức danh chuyên môn, cách thi và những cạm bẫy cần tránh (2026-09-27)
+
+Nguồn nhiệm vụ: Số #37 trên GitHub (siêu nhân-chết), hỏi liệu bạn có thể cải thiện thông tin về các chức danh nghề nghiệp không: cách lấy nó, chuẩn bị tài liệu gì, nên đến tổ chức nào. 
+
+## Phạm vi được xác định như thế nào?
+
+Trước đây, toàn bộ cuốn sách không đề cập đến các danh hiệu kỹ thuật chuyên môn, chỉ được đề cập thoáng qua ở các Mục 24, 31, 32 và 33. Các mục 8 và 11 của Mục 23 bàn về trình độ chuyên môn và trình độ kỹ năng, không phải các danh hiệu chuyên môn. 
+
+Không mở phần mới nào; bốn điều khoản nữa được thêm vào cuối câu 23 (các điểm 20 đến 23), không chèn chúng vào giữa, để tránh trì hoãn các điểm 14 đến 19 (những điểm này đã được trích dẫn ở nơi khác hơn một chục lần). 
+
+"Những tài liệu cần chuẩn bị" không được ghi dưới dạng danh sách kiểm tra. Danh sách tài liệu chuyên môn được chia thành 27 lưới; danh sách tài liệu, thời gian nộp đơn và điều kiện thực hiện được xác định bởi thông báo nộp đơn hàng năm của từng bộ và tỉnh; không có phiên bản thống nhất trên toàn quốc. Việc viết từng mục trở thành một hướng dẫn dịch vụ địa phương không thể duy trì được. Văn bản chính chỉ hướng dẫn: trước tiên hãy tìm thông báo nộp đơn năm hiện tại từ Sở Nhân sự và An sinh Xã hội tỉnh. 
+
+## Kiểm tra từng mục
+
+| Nơi sử dụng | Nguồn | Phương pháp đánh giá | Những điểm chính của văn bản gốc |
+|---|---|---|---|
+| 23-20、22、23 | Bộ Nhân sự và An sinh Xã hội Quyết định số 40 "Quy định tạm thời về quản lý đánh giá chức danh nghề nghiệp", gov.cn Công báo Quốc vụ viện | Kiểm tra toàn diện từng chữ | Điều 2: Áp dụng cho doanh nghiệp, cơ quan công, tổ chức xã hội, tổ chức kinh tế cá nhân và người làm việc tự do. Kết quả là cơ sở quan trọng cho việc làm, đánh giá và thăng tiến; Điều 13: Không được khai báo nghỉ hưu, và trong thời gian có các biện pháp kỷ luật đối với các cơ quan công lập có mức phạt hoặc cao hơn, các đơn như vậy không được chấp nhận; Điều 14: Thông thường, đơn phải được nộp từng bước; Điều 15: Những người có thể xác minh trực tuyến không được yêu cầu bằng chứng bổ sung; Điều 16: Các đơn vị phải công khai công khai trong ít nhất 5 ngày làm việc; Điều 17: Các nhân viên phi công lập và tự do phải được các cơ quan nhân sự và các bên khác xem xét và đề xuất; Điều 18: Có thể thông báo và chỉnh sửa một lần; Điều 29: Đánh giá lại hoặc xác nhận trong quá trình chuyển công tác; Điều 39: Thu hồi các danh hiệu nghề nghiệp, nhập vào kho lưu trữ tính toàn vẹn, đưa vào Nền tảng Chia sẻ Thông tin Tín dụng Quốc gia, và thời hạn ghi nhận là 3 năm; Điều 44: Có hiệu lực từ ngày 01-09-2019 |
+| 23-20 | Phòng Nhân sự và An sinh Xã hội 'Thông báo về việc tiếp tục cải thiện công việc chức danh nghề nghiệp trong doanh nghiệp tư nhân' (2020), gov.cn | Xác minh toàn văn nguyên văn | Tuyên bố tại địa điểm quan hệ lao động; Chấp nhận các điểm dịch vụ, các cơ quan trung gian nhân tài, Liên đoàn Công nghiệp và Thương mại, các hiệp hội ngành và phòng thương mại, cũng như các hiệp hội; Được cử đến địa điểm khác trong hơn một năm liên tiếp có thể nộp đơn tại địa điểm phân công |
+| 23-20、22 | Tân Hoa Xã, 2024-10-09 "Đánh giá chức danh nghề nghiệp đã đạt đỉnh, làm thế nào để kiểm tra thông tin?" gov.cn Tái bản | Xác minh nguyên văn | 27 loạt tiêu đề chuyên môn; Trang web 12333, khách hàng, Trang web chính thức của Bộ Nhân sự và An sinh Xã hội, tìm kiếm tài khoản công cộng WeChat; Freelancer tham gia đánh giá phòng nhân sự và an sinh xã hội địa phương theo nguyên tắc địa phương |
+| 23-20、21、23 | Văn phòng chung Ban Chấp hành Trung ương Đảng Cộng sản Trung Quốc và Văn phòng Tổng hợp Quốc vụ, 'Ý kiến về việc làm sâu sắc cải cách hệ thống chức danh nghề nghiệp' (2016), gov.cn Công báo Quốc vụ viện số 3, 2017 | Kiểm tra toàn văn từng chữ một | (6) Việc có trình độ chuyên môn sẽ được cấp các danh hiệu nghề nghiệp tương ứng; sinh viên chuyên ngành trong các kỳ thi thống nhất quốc gia dành cho trẻ và trung cấp được miễn đánh giá; (8) Các bài thi không được coi là điều kiện hạn chế đối với nhân tài ứng dụng; kỹ năng ngoại ngữ và máy tính cho các danh hiệu nghề nghiệp không được yêu cầu đồng nhất; (11) Nhân tài có kỹ năng cao có thể tham gia đánh giá chuỗi kỹ thuật; công chức không được phép tham gia; (15) Các cơ quan công có thể được đánh giá trong tỷ lệ cơ cấu vị trí; các đánh giá và bổ nhiệm khác có thể được tiến hành riêng biệt |
+| 23-21 | Bộ Nhân sự và An sinh Xã hội và Bộ Tài chính 'Ý kiến hướng dẫn về việc tăng cường cải cách hệ thống chức danh nghề nghiệp cho nhân sự kế toán' (2019), gov.cn | Xác minh toàn văn nguyên văn | Kỳ thi thống nhất quốc gia dành cho trợ lý kế toán và kế toán; Kết hợp đánh giá kế toán cao cấp với đánh giá tổng quát cao cấp; Trợ lý kế toán có trình độ trung học phổ thông trở lên; Kế toán viên có bằng tiến sĩ hoặc thạc sĩ ít nhất 1 năm, lớp cử nhân hoặc sau đại học ít nhất 2 năm, bằng cử nhân ít nhất 4 năm, hoặc bằng cao đẳng ít nhất 5 năm; Công chức có thể được kiểm tra nhưng không được đánh giá |
+| 23-21 | Bộ Tài chính và cộng sự, "Thông báo về việc kết nối đúng đắn giữa bằng cấp chuyên môn kế toán và trình độ kỹ thuật kế toán" (2024), gov.cn | Kiểm tra toàn văn nguyên văn | Các ứng viên bằng thạc sĩ và tiến sĩ kế toán chuyên nghiệp nộp đơn cho trình độ trung cấp có thể được miễn thi "Quản lý Tài chính" |
+| 23-22 | Bộ Nhân sự và An sinh Xã hội 'Biện pháp tạm thời giám sát đánh giá chức danh nghề nghiệp' (2024), gov.cn | Xác minh toàn văn nguyên văn | Điều 5: Bốn loại vi phạm của người nộp đơn; Điều 15: Điều tra và xử lý các bên trung gian sử dụng trang web giả, quảng cáo sai lệch, bẫy hợp đồng, đánh giá giả và chứng chỉ giả; Điều 17: Không được nộp cam kết giả trong 3 năm, không được lập hồ sơ trong 3 năm, và sau khi xác minh, tài liệu sẽ bị thu hồi; Điều 27: Các trường hợp nghiêm trọng sẽ được chuyển giao |
+| 23-22 | Phòng Nhân sự và An sinh Xã hội "Thông báo về việc tiếp tục cải thiện công tác đánh giá tiêu đề nghề nghiệp" (2022), gov.cn | Xác minh toàn văn nguyên văn | Các ủy ban đánh giá chưa được nộp sẽ không được đưa kết quả vào Hệ thống Truy vấn và Xác minh Thông tin Đánh giá Tiêu đề Nghề nghiệp Quốc gia |
+
+## Không có gì được viết
+
+- Bảng so sánh cụ thể của "Thư ký giữa Trình độ Chuyên môn và Chức danh Chuyên môn": Cơ sở dữ liệu tài liệu chính sách không thể tìm thấy theo tiêu đề, chỉ trích dẫn các quy định nguyên tắc của Ý kiến năm 2016. 
+- Đăng ký hộ gia đình và trợ cấp tài năng dựa trên điểm dựa trên chức danh nghề nghiệp: Chính sách khác nhau tùy theo vùng, không tìm thấy văn bản gốc toàn quốc, ghi chú 23 không đề cập đến điều này. 
+- Liệu mỗi bộ bài có phải là một kỳ thi thống nhất hay không: Chỉ có một bộ bài kế toán được bao gồm; người đọc có thể tham khảo "Ý kiến hướng dẫn về việc làm sâu sắc cải cách Hệ thống Chức danh Nghề nghiệp ××" trong bộ bài đó. 
+
+## Mức năng suất được xác định như thế nào?
+
+- Điều 20 và 21: Cố định cỡ đạn theo thời gian, giúp giảm số lần đi vòng ngay lập tức và gán "nhỏ" cho ngưỡng. 
+- Điều 22: Phạm vi được đặt là miễn phí, với các hậu quả bao gồm thu hồi chức danh nghề nghiệp, 3 năm có hồ sơ gian lận và không thể báo cáo trong vòng 3 năm. Điều này gần giống với xử lý hành chính và được phân loại là "tránh các hình phạt hành chính." 
+- Điều 23: Tham chiếu được đặt dưới dạng tiền, nhưng tài liệu không nêu rõ "mức độ tăng", nên phán quyết là "nhỏ", cấp bằng chứng B.

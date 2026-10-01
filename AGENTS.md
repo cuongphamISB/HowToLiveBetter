@@ -1,6 +1,6 @@
-# AGENTS.md
+#AGENTS.md
 
-这个仓库是《高性价比人生指南》的正文。
+Kho lưu trữ này là nội dung của "Hướng dẫn cuộc sống tiết kiệm chi phí".
 
-- **改这本书**（增删条目、改正文、动工具脚本）：规则全在 [CLAUDE.md](CLAUDE.md) 里，全部适用，先读完再动手。文件名叫 CLAUDE.md 只是历史原因，内容与工具无关。
-- **用这本书回答问题**（有人问该不该做、值不值、怎么选、出事了先做什么、能领哪笔钱、犯不犯法）：按 [skills/life-decision-guide/SKILL.md](skills/life-decision-guide/SKILL.md) 执行，先查条目再答，答复里注明出自第几节第几条。装到别的目录去用的办法见 [skills/life-decision-guide/README.md](skills/life-decision-guide/README.md)。
+- **Sửa đổi cuốn sách này** (thêm hoặc xóa mục, sửa văn bản, chạy tập lệnh công cụ): Tất cả các quy tắc đều có trong [CLAUDE.md] (CLAUDE.md), tất cả đều có thể áp dụng, hãy đọc nó trước khi bắt đầu. Tên tệp CLAUDE.md chỉ vì lý do lịch sử và nội dung không liên quan gì đến công cụ.
+- **Dùng sách này để trả lời các câu hỏi** (Có người hỏi có nên làm không, có đáng không, lựa chọn như thế nào, nếu có chuyện gì xảy ra thì làm gì đầu tiên, có thể nhận được loại tiền nào, có vi phạm pháp luật không): Nhấn [skills/life-decision-guide/SKILL.md](skills/life-decision-guide/SKILL.md) để thực hiện, kiểm tra các mục trước rồi trả lời. Trong câu trả lời, hãy cho biết nó đến từ phần và bài viết nào. Để biết hướng dẫn cài đặt vào thư mục khác và sử dụng nó, hãy xem [skills/life-decision-guide/README.md](skills/life-decision-guide/README.md).
