@@ -1,0 +1,83 @@
+# Bổ sung: ngủ bù và làm ca đêm — hồ sơ kiểm chứng (21/09/2026)
+
+Nguồn yêu cầu: người dùng hỏi sách có nội dung về thức khuya không.
+
+Sách đã có sáu mục: chương 2, mục 13 về ngủ khoảng 7 giờ và lịch đều; chương 3, mục 2 về giờ thức dậy cố định; mục 3 về ngủ đủ 7–8 giờ; mục 8 về không đọc sách điện tử phát sáng trước ngủ; mục 9 về đến giờ thì ngủ; mục 10 về không quyết định việc lớn lúc khuya. Hai phần còn thiếu là làm gì sau khi đã thiếu ngủ và làm ca đêm, luân phiên ba ca.
+
+Vị trí bổ sung: chương 2, mục 40 và 41, đặt cuối chương để không đổi số. Nghiên cứu lệch giờ ngủ giữa ngày làm và ngày nghỉ được thêm vào lợi ích của chương 2, mục 13; ghi chú chương 3, mục 2 thêm tham chiếu qua lại.
+
+## Một nhận định đã được người dùng sửa
+
+Ban đầu, tôi đề nghị chỉ viết ngủ bù, bỏ ca đêm vì cho rằng ca đêm chỉ có rủi ro mà không có cách xử lý. Tôi áp dụng cách rà soát ngày 18/09/2026 về việc chỉ cấm mà không đưa cách thay thế. Người dùng phản bác rằng độc giả có thể chọn làm ca đêm hay không, có người đổi việc vì sức khỏe, và có thông tin vẫn hơn không có.
+
+Phản bác này đúng: tôi đã áp dụng quy tắc quá mức. Đổi việc, xin đổi vị trí hoặc tính rủi ro khi chọn nghề đều là lựa chọn thật. Liên hệ theo liều trong 23 nghiên cứu đoàn hệ, mỗi 5 năm tăng 7%, là căn cứ định lượng cho việc nếu muốn đổi thì nên đổi sớm. Sách vốn có cách tách chi phí và lợi ích để người đọc quyết định, như chương 10 về kết hôn và chương 18 về nuôi con; ca đêm cũng có thể viết như vậy. **Bài học: trước khi nói không có cách xử lý, phải kiểm tra người trong cuộc thực sự có lựa chọn hay không. Một lựa chọn tốn kém vẫn là lựa chọn.**
+
+## Tài liệu
+
+| DOI | Kiểm tra lại | Số liệu và nội dung gốc quan trọng |
+|---|---|---|
+| <https://doi.org/10.1038/s41467-026-72461-1>, chứng cứ chính mục 40 | Có. Li X, Zhang M, Li Z, Zhang S, Bertisch SM, Huang T, Rutter MK, Redline S, Nat Commun 2026, PMID 42045198; đối chiếu từng chữ toàn văn XML PMC13121452 | Đoàn hệ tiến cứu 85.618 người UK Biobank, tuổi trung bình 61,8, độ lệch chuẩn 7,8; dữ liệu giấc ngủ đo bằng gia tốc kế xác định năm kiểu thiếu ngủ và ngủ bù hằng ngày. Kết quả được lặp lại trong NHANES độc lập, N=4.586. Mô hình 3 điều chỉnh đầy đủ: thiếu ngủ không bù và thiếu ngủ nặng không bù so với ngủ đều có HR tử vong lần lượt 1,15, CI 95% 1,01–1,31; và 1,42, CI 95% 1,24–1,63. Khi có ngủ bù, cả hai nhóm không có liên hệ tử vong có ý nghĩa thống kê, dù ước lượng điểm trên 1,0. Thiếu ngủ có bù có HR điều chỉnh 1,12, CI 95% 0,98–1,28. Trong nhóm vốn ngủ ngắn, thiếu ngủ và thiếu ngủ nặng không bù có HR lần lượt 1,19, CI 95% 1,01–1,40; và 1,38, CI 95% 1,17–1,63 so với ngủ đều. |
+| Cùng nguồn, định nghĩa dùng để đặt tiêu đề | Có | Đêm thiếu ngủ là đêm ngủ ít hơn nhu cầu cá nhân ít nhất 2,5 giờ. Đêm sau thiếu ngủ là đêm đầu sau mỗi giai đoạn thiếu; mỗi giai đoạn sau thiếu chỉ tính một đêm. Ngủ bù được định nghĩa là lượng ngủ thêm trung bình trên 0 giờ so với nhu cầu cá nhân qua các giai đoạn sau thiếu. Thiếu ngủ là tổng thiếu trung bình 2,5–3,5 giờ so với nhu cầu trong các giai đoạn thiếu; thiếu ngủ nặng là trên 3,5 giờ. |
+| <https://doi.org/10.3389/fpubh.2025.1668848>, chứng cứ chính mục 41 | Có. Xi J, Ma W, Tao Y, Zhang X, Liu L, Wang H, Front Public Health 2025, PMID 41069800, PROSPERO CRD420251060086 | Gồm 23 đoàn hệ. Ca đêm liên quan tăng biến cố tim mạch tổng, RR 1,13, CI 95% 1,10–1,16; tử vong tim mạch tổng, RR 1,27, CI 95% 1,18–1,36. Mỗi 5 năm làm ca liên quan nguy cơ mắc tim mạch cao hơn 7%, RR 1,07, CI 95% 1,04–1,09; câu nguyên bản ghi tử vong tăng 4% nhưng đồng thời cho RR 1,05, CI 95% 1,03–1,06. Mắc bệnh mạch vành RR 1,22, CI 95% 1,16–1,28; bệnh tim thiếu máu RR 1,09, CI 95% 1,05–1,14; đột quỵ không có liên hệ rõ, RR 1,06, CI 95% 0,95–1,18. Tử vong do bệnh mạch vành RR 1,22, CI 95% 1,10–1,36; do bệnh tim thiếu máu RR 1,39, CI 95% 1,06–1,84; do đột quỵ RR 1,49, CI 95% 1,04–2,12. |
+| <https://doi.org/10.1093/occmed/kqaf040>, ghi chú mục 41 về ung thư, nguồn thứ nhất | Có. Esposito G, Bravi F, Santucci C và cộng sự, Occup Med (Lond) 2025, PMID 41525351 | Gồm 12 nghiên cứu, 12.132 ca ung thư vú. RR gộp từng làm ca đêm 1,05, CI 95% 0,96–1,14, 12 nghiên cứu; từ 10 năm 1,11, CI 95% 0,96–1,28, 9 nghiên cứu; từ 20 năm 1,25, CI 95% 1,01–1,55, 7 nghiên cứu; từ 30 năm 1,68, CI 95% 0,77–3,65, 3 nghiên cứu. RR từ 20 năm mất ý nghĩa thống kê khi phân tích độ ảnh hưởng và gần 1 sau điều chỉnh khả năng thiên lệch công bố. Ca đêm lâu dài có thể tăng ung thư vú ở nhân viên y tế nhưng mối liên hệ còn chưa chắc chắn. |
+| <https://doi.org/10.5271/sjweh.4290>, ghi chú mục 41 về ung thư, nguồn thứ hai | Có. Shen QM, Li ZY, Tan YT và cộng sự, Scand J Work Environ Health 2026, PMID 41955583 | Trong thời gian theo dõi trung vị 16,1 năm có 8.202 ca ung thư mới. Người làm ca đêm tích lũy 11–20 năm có nguy cơ ung thư tụy cao hơn người chưa làm ca, HR 1,59, CI 95% 1,09–2,31. Không có liên hệ có ý nghĩa giữa các chỉ số ca đêm với ung thư tổng hoặc các vị trí ung thư chính khác. Ở nam Trung Quốc, ca đêm không liên quan nguy cơ ung thư chung hoặc một số ung thư thường gặp. |
+| <https://doi.org/10.1111/joim.70133>, thêm vào lợi ích chương 2, mục 13 | Có. Kumar N, Krishnamurthy S, J Intern Med 2026, PMID 42387174 | Đo thời điểm ngủ bằng gia tốc kế đeo cổ tay ở 51.562 người UK Biobank. Lệch giờ ngủ xã hội là chênh lệch tuyệt đối giữa trung điểm giấc ngủ ngày làm và cuối tuần. Theo dõi tiến cứu có 3.853 biến cố tim mạch. Mỗi độ lệch chuẩn tăng của chỉ số này liên quan nguy cơ tim mạch tổng hợp tăng, HR 1,05, CI 95% 1,02–1,09. Lệch từ 2 giờ có HR 1,30, CI 95% 1,11–1,54. Lệch nặng vẫn liên quan tim mạch ở người ngủ đủ thời lượng bình thường, trong khi thời lượng ngủ riêng không có liên hệ độc lập. |
+
+## Nội dung không đưa vào: IARC nhóm 2A
+
+Nhận định phổ biến rằng WHO xếp ca đêm vào nhóm gây ung thư 2A không được đưa vào mục sách. Bảng phân loại trên monographs.iarc.who.int và publications.iarc.who.int/593 tải động ở phía giao diện; máy đang dùng chỉ lấy được trang khung, không có nội dung. Bản xuất bản của nhóm công tác chính thức là Ward EM và cộng sự (2019), Carcinogenicity of night shift work, Lancet Oncol 20(8):1058–1059, PMID 31281097; Crossref xác nhận thông tin thư mục phù hợp. Tuy nhiên, Europe PMC không có tóm tắt nên chưa đối chiếu từng chữ được cách nói “2A” và “có khả năng gây ung thư”.
+
+Theo quy tắc không ghi số chưa chắc, không bịa từ trí nhớ, tôi dùng hai nghiên cứu dịch tễ ung thư đối chiếu được nội dung. Kết luận của chúng yếu hơn nhiều so với lời truyền miệng, nên sách ghi mức chắc chắn thấp hơn lời thường được nhắc. Có thể bổ sung sau khi lấy được trang IARC.
+
+## Xếp mức và lựa chọn nội dung
+
+- **Mục 40 xếp B:** chỉ có một đoàn hệ và một lần lặp lại NHANES, đều quan sát. Lợi ích vừa vì khác biệt giữa 1,42 và nhóm không có ý nghĩa thống kê đủ lớn, nhưng vẫn chỉ là liên hệ. “Nhóm có bù không có ý nghĩa thống kê” nghĩa là chưa phát hiện khác biệt, không chứng minh hết nguy cơ; ước lượng điểm vẫn trên 1, ghi chú đã nêu.
+- **Mục 41 xếp A:** phân tích gộp liên hệ theo liều trên 23 đoàn hệ, số đối chiếu được từng chữ. Lợi ích lớn vì tử vong tim mạch cao hơn 27%, áp ngưỡng từ 20% của loại tử vong.
+- **Chi phí mục 41 chọn trường hợp khó:** tiền=cao, thời gian=vừa, kiên trì=cao, vì đổi vị trí hoặc việc làm có thể giảm thu nhập, mất phụ cấp ca đêm. Chi phí cũng nêu nếu đang chọn việc thì cân nhắc không tốn tiền, nhưng metadata chỉ có một bộ nên chọn cao.
+- **Đã giải quyết mâu thuẫn:** mục 40 nói thiếu thì bù, chương 3, mục 2 nói cuối tuần vẫn dậy cố định, trong khi nghiên cứu lệch trung điểm giấc ngủ từ 2 giờ có nguy cơ tăng 30%. Toàn văn cho thấy ngủ bù là đêm đầu sau thiếu và mỗi giai đoạn chỉ tính một đêm, không phải dồn đến cuối tuần. Tiêu đề mục 40 vì vậy là ngủ bù ngay đêm tiếp theo, không dồn cuối tuần. Ghi chú ở mục này và chương 3, mục 2 đều nói đi ngủ sớm hơn đêm đó, không ngủ đến trưa hôm sau.
+- **Không tạo mục riêng cho lệch giờ ngủ xã hội:** nội dung gần với chương 2, mục 13 về lịch đều dự đoán tử vong tốt hơn thời lượng. Nghiên cứu được thêm vào lợi ích và ghi chú đổi từ một sang hai nghiên cứu theo dõi.
+- Người hưởng lợi thuộc nhóm thứ nhất: chính bạn.
+
+## Tiếp cùng ngày 21/09/2026: thêm cách ứng phó vào mục 41 và viết bài dài về cơ chế
+
+Nguồn yêu cầu: người dùng hỏi vì sao ca đêm có hại, cơ thể có nhận biết giờ không. Sau phần giải thích, người dùng muốn cả hai: thêm việc ăn ban ngày khi làm đêm vào mục 41 và viết bài dài giải thích cơ chế.
+
+### Tài liệu bổ sung
+
+| DOI | Kiểm tra lại | Số liệu và nội dung gốc quan trọng |
+|---|---|---|
+| <https://doi.org/10.1080/07420520802106835> | Có. Folkard S, Chronobiol Int 2008, PMID 18533325 | Sáu nghiên cứu cho thấy rất ít, dưới 3%, người làm ca đêm cố định có nhịp melatonin nội sinh thích nghi hoàn toàn; chưa đến một phần tư thích nghi đủ đáng kể. Tổng quan loại trừ môi trường đặc biệt như giàn khoan và mỏ xa khu dân cư. |
+| <https://doi.org/10.1073/pnas.0808180106> | Có. Scheer FA, Hilton MF, Mantzoros CS, Shea SA, PNAS 2009;106:4453–4458, PMID 19255424 | Mười người trưởng thành, 5 nữ, tham gia quy trình phòng thí nghiệm 10 ngày với “ngày” lặp lại 28 giờ, ăn 4 bữa có tổng năng lượng bằng nhau mỗi “ngày”. Lệch nhịp khi ăn, ngủ cách giờ thường lệ khoảng 12 giờ làm leptin giảm 17%, P<0,001; glucose tăng 6%, P<0,001 dù insulin tăng 22%, P=0,006; đảo hoàn toàn nhịp cortisol, P<0,001; huyết áp động mạch trung bình tăng 3%, P=0,001; hiệu suất ngủ giảm 20%, P<0,002. Trong 8 người có dữ liệu đủ, 3 người có đáp ứng glucose sau ăn trong khoảng thường gặp ở tiền đái tháo đường. **Giữ cố định năng lượng là điểm then chốt của nghiên cứu**, đã được ghi cả trong sách và bài dài. |
+| <https://doi.org/10.1126/sciadv.abg9910> | Có. Chellappa SL và cộng sự, Sci Adv 2021, PMID 34860550 | Mô hình nhịp sinh học 14 ngày đánh giá kiểm soát đường huyết khi mô phỏng ca đêm, so ăn ban đêm với ban ngày. Ăn đêm làm lệch nhịp nội sinh trung tâm với nhịp glucose ngoại vi và giảm dung nạp glucose; giới hạn ăn ban ngày ngăn được điều này. |
+| <https://doi.org/10.1038/s41467-025-57846-y> | Có. Chellappa SL, Gao L, Qian J, Vujovic N, Li P, Hu K, Scheer FAJL, Nat Commun 2025, PMID 40199860 | Phân tích thứ cấp NCT02291952 trên 20 người khỏe, không làm ca, được phân ngẫu nhiên. Trong nhóm chứng, quy trình điều kiện cố định sau lệch nhịp so với ban đầu có pNN50 giảm 25,7%, pFDR=0,008; RMMSD giảm 14,3%, pFDR=0,02; LF/HF tăng 5,5%, pFDR=0,04; PAI-1 tăng 23,9%, pFDR=0,04. |
+| <https://doi.org/10.1177/02601060261464874> | Có. Wulandari F và cộng sự, Nutrition and Health 2026, PMID 42383913 | Bốn thử nghiệm đủ tiêu chuẩn. Ăn giới hạn trong 10 giờ tự chọn có kích thước hạt VLDL-C thấp hơn nhóm chứng có ý nghĩa thống kê. Bốn nghiên cứu đo insulin đói và HOMA-IR, chỉ một thử nghiệm thấy thay đổi có ý nghĩa sau nhịn qua đêm 8,5 giờ. Không nghiên cứu nào thấy HDL-C thay đổi rõ. Nhịn ban đêm 10,75 giờ có diện tích dưới đường cong glucose, acid béo không ester hóa và glucose sau 2 giờ thấp hơn nhóm ăn bữa chính, ăn nhẹ ban đêm. Số thử nghiệm ít hạn chế khả năng áp dụng rộng. |
+
+### Lựa chọn nội dung
+
+- **Hai bài 2021 và 2025 là cùng thử nghiệm NCT02291952.** Bài 2025 là phân tích thứ cấp; sách và bài dài ghi một thử nghiệm, hai nhóm kết quả, không coi là hai nguồn độc lập.
+- **Cách ứng phó được viết thận trọng:** ghi chú và phần 7 bài dài nói rõ chỉ 20 người, mô phỏng ca đêm, không phải công nhân ca đêm thật. Tổng quan chỉ tìm được 4 thử nghiệm và kết quả không đồng nhất cũng được dẫn. Kết luận lúc này là cách ứng phó duy nhất có thử nghiệm ngẫu nhiên hỗ trợ nhưng chứng cứ mỏng, không tốn tiền và ít khó thực hiện, người đọc có thể cân nhắc thử; không viết thành khuyến nghị chắc chắn.
+- **Không viết luân phiên ca thuận chiều:** tìm theo rotating, clockwise, forward, backward chưa có thử nghiệm hoặc phân tích gộp vừa đối chiếu được từng chữ vừa có kết cục sức khỏe. Cách này chưa được bổ sung.
+- **Bài dài tập trung cơ chế:** phần 8 dẫn bốn nội dung không lặp lại về chương 2, mục 41, 40, 13 và chương 3, mục 2.
+- **Kiến thức giáo khoa không gắn tài liệu riêng:** nhân trên giao thoa có khoảng hai vạn neuron, vòng phản hồi âm CLOCK/BMAL1–PER/CRY, Nobel năm 2017, tế bào cảm nhận ánh sáng melanopsin, người mù vẫn có thể được ánh sáng chỉnh nhịp, đồng hồ ngoại vi được giờ ăn đồng bộ. Tác giả coi đó là kiến thức chung ngành, không phải số liệu cần kiểm chứng của sách. **Mọi đoạn có số nghiên cứu cụ thể**, như dưới 3% của Folkard, năm thay đổi của Scheer và bốn chỉ số Chellappa, đều gắn nguồn cuối phần.
+- **Bài dài phải được liên kết trong README:** dòng 54 tools/lib/book.mjs lấy danh sách bài bằng biểu thức tìm `](docs/*.md)` trong README. Chỉ liên kết trong book/ sẽ không đưa bài vào EPUB, PDF và bản ngoại tuyến một tệp. Đã thêm ở câu danh sách bài dài và dòng mục lục chương 2.
+
+## Tiếp lần hai cùng ngày 21/09/2026: dùng ánh sáng để dịch chuyển đồng hồ sinh học
+
+Nguồn yêu cầu: người dùng hỏi nếu mô phỏng hoàn toàn môi trường tự nhiên bằng đèn, kéo rèm ban ngày và đeo bịt mắt thì có thay đổi đồng hồ sinh học không.
+
+### Tài liệu bổ sung
+
+| DOI | Kiểm tra lại | Số liệu và nội dung gốc quan trọng |
+|---|---|---|
+| <https://doi.org/10.1056/NEJM199005033221801> | Có. Czeisler CA, Johnson MP, Duffy JF, Brown EN, Ronda JM, Kronauer RE, NEJM 1990;322(18):1253–1259, PMID 2325721; thư mục đối chiếu Crossref | Đánh giá đồng hồ sinh học trong năm lượt chứng và năm lượt điều trị để xem 8 nam trẻ khỏe thích nghi với một tuần làm đêm. Nhóm chứng làm công việc ít vận động dưới ánh sáng thường khoảng 150 lux: đêm thứ sáu liên tiếp, điểm thấp nhất của chu kỳ thân nhiệt nội sinh vẫn ở ban đêm, 3:31 ± 0:56 giờ, trung bình ± sai số chuẩn, cho thấy chưa thích nghi. Nhóm điều trị có ánh sáng 7.000–12.000 lux ban đêm, gần hoàn toàn tối ban ngày; sau bốn ngày, điểm thấp dịch đến giữa chiều, 14:53 ± 0:32. Phần trích nguyên bản kết thúc ở “P nhỏ hơn…”, không có giá trị P đầy đủ. |
+| <https://doi.org/10.1038/s41598-024-83789-3> | Có. Zhao C, Li N, Miao W, He Y, Lin Y, Sci Rep 2025, PMID 39747347 | Phân tích gộp hiệu ứng ngẫu nhiên trên 11 bài: liệu pháp ánh sáng tăng tổng thời gian ngủ, MD=32,54, p<0,00001, và hiệu suất ngủ, MD=2,91, p=0,007 so với chứng. Phân tích nhóm và hồi quy cho thấy ánh sáng trung bình 900–6.000 lux trong ít nhất 1 giờ ban đêm hiệu quả hơn về kéo dài tổng giấc ngủ. |
+| <https://doi.org/10.5271/sjweh.3953> | Có. Lammers-van der Holst HM, Wyatt JK, Horowitz TS và cộng sự, gồm Czeisler, Scand J Work Environ Health 2021, PMID 33774680 | Đêm cuối, thời gian tiết melatonin trùng thời gian ngủ dự kiến nhiều hơn ở nhóm điều trị: trung bình 4,90 giờ, SD 2,8, so với 2,62 giờ, SD 2,8 ở chứng, P=0,002. Nhóm chứng có suy giảm nhận thức đêm cuối; nhóm điều trị giảm thiểu suy giảm trong ca đêm và ca chiều cuối. Tác giả yêu cầu thử chế độ ánh sáng dịch nhịp như can thiệp nơi làm việc ở người làm ca thật, luân phiên ngược chiều. |
+
+### Lựa chọn nội dung
+
+- **Cách này có chứng cứ mạnh hơn ăn ban ngày:** đo trực tiếp pha đồng hồ qua điểm thấp thân nhiệt và nhịp melatonin, thay vì chỉ kết cục thay thế. Nhóm 150 lux không dịch sau sáu đêm trả lời câu hỏi ánh sáng đèn thường có đủ không: cường độ thiếu khoảng một bậc độ lớn.
+- **Ba điều kiện bắt buộc được ghi trong sách và bài dài:** ánh sáng đêm đủ mạnh, chắn sáng nghiêm ngặt ban ngày, đeo kính râm lúc đi về. Ánh sáng trước điểm thấp thân nhiệt đẩy nhịp muộn hơn, sau điểm thấp kéo sớm hơn; đường về thường ở giai đoạn sau nên ánh sáng sáng sớm có thể triệt tác dụng của đèn đêm. Thiếu điều kiện này có thể làm mất hiệu quả.
+- **Chỉ ghi hiệu quả đã đo:** phân tích gộp chỉ có tổng ngủ tăng 32,54 phút và hiệu suất ngủ tăng 2,91, không phải mắc bệnh hay tử vong. Nghiên cứu 2021 mô phỏng trong phòng thí nghiệm, chính tác giả yêu cầu kiểm chứng ở người làm ca thật; sách và bài dài đều nêu.
+- **Ghi rõ chưa đo việc chỉnh đúng nhịp có giảm nguy cơ tim mạch không:** biết lệch nhịp có hại qua Scheer 2009 không đủ chứng minh điều ngược lại. Việc đổi nhịp qua lại ngày nghỉ có lợi hay hại cũng chưa được đo; bài dài có phần riêng.
+- **Rút gọn ghi chú bằng chuyển giải thích sang bài dài:** ghi chú mục 41 từng đạt 998 chữ, dài nhất sách; trong 600 ghi chú, trung vị khoảng 130 chữ, phân vị 90 khoảng 273. Theo CLAUDE.md, các mức ánh sáng, số gốc và nguồn khác chuyển sang bài dài. Ghi chú chỉ giữ so sánh quyết định 150 lux sáu đêm không dịch với 7.000–12.000 lux bốn ngày đổi nhịp, ba điều kiện và hai giới hạn; độ dài dưới 998 chữ, không còn dài nhất. **Ghi chú dài nhất hiện là chương 6, mục 26 về bữa sáng, 1.127 chữ, cũng viết trong đợt này, chưa xử lý.**
+- **Sửa hai chỗ mâu thuẫn khi thêm cách thứ hai:** tiêu đề phần 7 từ “Điều có thể thay đổi” đổi thành “Cách thứ nhất”; câu kết nói là cách duy nhất có thử nghiệm ngẫu nhiên hỗ trợ được sửa và dẫn phần tiếp theo.

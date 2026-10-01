@@ -1,32 +1,4 @@
-<!-- tệp nguồn của ads/mcyyy-side.webp (quảng cáo nhỏ ở cuối cột bên trái của index.html). Sau khi chỉnh sửa xong, xuất lại hình (Windows + Chrome):
-     "C:\Program Files\Google\Chrome\Application\chrome.exe" --headless --disable-gpu ^
-       --hide-scrollbars --force-device-scale-factor=2 --window-size=624,312 ^
-       --screenshot=D:\projects\HowToLiveBetter\ads\mcyyy-side.png ^
-       D:\projects\HowToLiveBetter\tools\ad-mcyyy-side.html
-     Sau đó theo phương pháp trong phần chú thích của tools/ad-mcyyy.html để chuyển sang webp và xóa png.
-     Kích thước chữ được thiết kế theo "chỉ có 208px chiều rộng ở cột bên", lớn hơn một chút so với banner trong ad-mcyyy.html, thu nhỏ mới đọc được rõ.
-     device-scale-factor=2 để hiển thị không bị mờ trên màn hình độ phân giải cao. Banner lớn trong README xem tại tools/ad-mcyyy.html. -->
-<!doctype html><meta charset="utf-8">
-<style>
-*{margin:0;padding:0;box-sizing:border-box}
-body{width:624px;height:312px;font-family:"Microsoft YaHei","PingFang SC",sans-serif;
-  position:relative;overflow:hidden;background:#0b1220}
-.bg{position:absolute;inset:0;background:url("ad-mcyyy-bg.webp") 62% 46% / cover no-repeat}
-.scrim{position:absolute;inset:0;
-  background:linear-gradient(103deg, rgba(8,15,32,.95) 0%, rgba(8,15,32,.88) 46%, rgba(8,15,32,.5) 78%, rgba(8,15,32,.2) 100%)}
-.in{position:relative;height:100%;padding:34px 36px;display:flex;flex-direction:column;justify-content:center;color:#fff}
-.kicker{font-size:22px;letter-spacing:.2em;color:#9fc0ff;font-weight:600}
-h1{margin-top:10px;font-size:76px;line-height:1;letter-spacing:.04em;font-weight:700;
-  text-shadow:0 4px 22px rgba(0,0,0,.55)}
-.sub{margin-top:14px;font-size:25px;color:#dbe6ff;font-weight:500}
-.ip{margin-top:22px;align-self:flex-start;font-size:37px;font-weight:700;padding:11px 22px;border-radius:12px;
-  background:#3451b2;box-shadow:0 8px 24px rgba(52,81,178,.45)}
-</style>
-<div class="bg"></div>
-<div class="scrim"></div>
-<div class="in">
-  <div class="kicker">MINECRAFT Máy chủ Sinh tồn</div>
-  <h1>Thế giới vĩnh hằng</h1>
-  <div class="sub">Nhân lõi Folia · mcMMO Tu tiên</div>
-  <div class="ip">1.mcyyy.com</div>
-</div>
+<!doctype html><html lang="vi"><head><meta charset="utf-8"><title>Máy chủ Minecraft</title><style>
+*{margin:0;padding:0;box-sizing:border-box}body{width:624px;height:312px;font-family:"Segoe UI",sans-serif;position:relative;overflow:hidden;background:#0b1220;color:#fff}
+.bg{position:absolute;inset:0;background:url("ad-mcyyy-bg.webp") 62% 46%/cover no-repeat}.shade{position:absolute;inset:0;background:linear-gradient(103deg,#081020f5,#081020dd 55%,#08102066)}.content{position:relative;padding:34px 32px}.kicker{font-size:20px;color:#a8c7ff}h1{font:700 49px/1.1 Georgia,serif;margin:14px 0}.sub{font-size:22px;color:#dbe6ff}.ip{display:inline-block;margin-top:23px;font-size:31px;font-weight:700;padding:10px 22px;border-radius:12px;background:#3451b2}
+</style></head><body><div class="bg"></div><div class="shade"></div><div class="content"><div class="kicker">MINECRAFT · SINH TỒN</div><h1>Thế giới vĩnh hằng</h1><div class="sub">Folia · Hệ thống kỹ năng mcMMO</div><div class="ip">1.mcyyy.com</div></div></body></html>

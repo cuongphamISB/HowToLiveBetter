@@ -1,42 +1,19 @@
-<!-- Tệp nguồn của og.png. Các số được node tools/sync-stats.mjs ghi lại, cùng một lệnh cũng đồng thời chụp lại màn hình. 
-     Ba số: số mục, số mục cấp A lấy từ nội dung README (không bao gồm mục trong khối ví dụ "Cách đọc"),
-     số liên kết = tổng số liên kết http(s) trong tất cả các dòng "- Nguồn:" và "- Ghi chú:". -->
-<!doctype html><meta charset="utf-8">
-<style>
+<!doctype html>
+<html lang="vi"><head><meta charset="utf-8"><title>Ảnh chia sẻ sách</title><style>
 *{margin:0;padding:0;box-sizing:border-box}
-body{width:1200px;height:630px;font-family:"Microsoft YaHei","PingFang SC",sans-serif;
-  background:#fff;position:relative;overflow:hidden}
-.bg{position:absolute;inset:0;
-  background:radial-gradient(700px 420px at 88% 8%, rgba(100,108,255,.16), transparent 70%),
-             radial-gradient(560px 380px at 4% 100%, rgba(16,185,129,.12), transparent 70%)}
-.grid{position:absolute;inset:0;opacity:.5;
-  background-image:linear-gradient(#eceded 1px,transparent 1px),linear-gradient(90deg,#eceded 1px,transparent 1px);
-  background-size:48px 48px;
-  -webkit-mask-image:linear-gradient(180deg,rgba(0,0,0,.55),transparent 78%)}
-.in{position:relative;padding:76px 84px;height:100%;display:flex;flex-direction:column}
-.brand{display:flex;align-items:center;gap:14px;font-size:23px;color:#3c3c43b8;font-weight:600;letter-spacing:.02em}
-.logo{width:44px;height:44px;border-radius:11px;background:#3451b2;color:#fff;font-size:26px;font-weight:700;
-  display:flex;align-items:center;justify-content:center}
-.logo svg{width:28px;height:28px}
-h1{margin-top:56px;font-size:82px;line-height:1.12;letter-spacing:-.02em;color:#1b1b1f;font-weight:700}
+body{width:1200px;height:630px;font-family:Georgia,"Times New Roman",serif;background:#fff;color:#1b1b1f;overflow:hidden}
+.bg{position:absolute;inset:0;background:radial-gradient(700px 420px at 90% 0%,#3451b21c,transparent 70%),radial-gradient(560px 380px at 0% 100%,#18794e15,transparent 70%)}
+.bar{height:8px;background:linear-gradient(90deg,#3451b2,#5672cd 50%,#18794e)}
+.in{position:relative;padding:56px 70px;height:622px;display:flex;flex-direction:column}
+.brand{font:600 23px/1.4 "Segoe UI",sans-serif;color:#3451b2}
+h1{font-size:73px;line-height:1.1;letter-spacing:-.025em;margin-top:34px}
 h1 em{font-style:normal;color:#3451b2}
-p{margin-top:26px;font-size:30px;white-space:nowrap;line-height:1.6;color:#3c3c43c7;max-width:960px}
-.chips{margin-top:auto;margin-bottom:8px;display:flex;gap:14px;flex-wrap:wrap}
-.c{font-size:24px;font-weight:600;padding:12px 22px;border-radius:999px;background:#f6f6f7;color:#3c3c43c7;border:1px solid #e2e2e3}
-.c b{color:#1b1b1f}
-.c.a{background:rgba(16,185,129,.12);border-color:transparent;color:#18794e}
-.c.u{background:rgba(100,108,255,.14);border-color:transparent;color:#3451b2}
-.bar{position:absolute;left:0;top:0;width:100%;height:8px;background:linear-gradient(90deg,#3451b2,#5672cd 45%,#18794e)}
-</style>
-<div class="bg"></div><div class="grid"></div><div class="bar"></div>
-<div class="in">
-  <div class="brand"><span class="logo" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M6 12.5l4 4 8-9.5" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Hướng dẫn cuộc sống tiết kiệm</div>
-  <h1>Dùng ít tiền nhất, ít thời gian và công sức,<br>đổi lại<em>tuổi thọ, tiền bạc và tự do</em></h1>
-<p>Trường thọ phòng bệnh · Cấp cứu · Tiết kiệm quản lý tài chính · Ranh giới pháp luật · Hỗ trợ thất nghiệp · Tình yêu hôn nhân sinh con · Du học · Kỹ năng</p>
-  <div class="chips">
-    <div class="c u"><b>649</b> lời khuyên</div>
-    <div class="c a">Bằng chứng cấp A <b>428</b> mục</div>
-    <div class="c"><b>1531</b> liên kết tài liệu gốc</div>
-    <div class="c">Có thể lọc theo hiệu quả chi phí</div>
-  </div>
-</div>
+p{font:25px/1.5 "Segoe UI",sans-serif;color:#535359;margin-top:26px;max-width:1000px}
+.chips{display:flex;gap:14px;margin-top:auto;flex-wrap:wrap;font:20px/1.3 "Segoe UI",sans-serif}
+.c{padding:10px 16px;background:#f6f6f7;border-radius:999px;color:#4c4c55}.c:first-child{background:#3451b219;color:#3451b2}.c:nth-child(2){background:#18794e18;color:#18794e}
+</style></head><body><div class="bg"></div><div class="bar"></div><div class="in">
+<div class="brand">HƯỚNG DẪN SỐNG HIỆU QUẢ</div>
+<h1>Giữ sức khỏe, tiền bạc,<br><em>thời gian và tự do.</em></h1>
+<p>Từ phòng bệnh và sơ cứu đến việc làm, gia đình và pháp luật.<br>Mỗi lựa chọn đều ghi rõ chi phí, lợi ích và nguồn kiểm chứng.</p>
+<div class="chips"><div class="c"><b>649</b> gợi ý</div><div class="c">Bằng chứng A: <b>428</b></div><div class="c"><b>1534</b> nguồn</div></div>
+</div></body></html>

@@ -1,0 +1,56 @@
+# An toàn thực phẩm: bồi thường cho người mua, giấy phép và giới hạn quảng cáo của người bán
+
+Hồ sơ kiểm chứng ngày 20/09/2026. Tác giả hỏi bốn vấn đề: mua đồ hết hạn hoặc có tóc có được bồi thường gấp 10 lần, tối thiểu 1.000 CNY không; có được nói thực phẩm chữa bệnh không; bán thịt lợn hay thực phẩm tự làm cần phép gì; có cần in ngày sản xuất không.
+
+Tìm trong sách chưa có Luật An toàn thực phẩm, bồi thường 10 lần, ngày sản xuất, giấy phép sản xuất, xưởng nhỏ, thực phẩm rời, quầy bán, đồ tự làm, giết mổ, thịt lợn; từ hạn dùng, đóng gói sẵn, kiểm dịch chỉ có chỗ không liên quan. Gần nhất là mục 29 chương 5 về gian lận người tiêu dùng được gấp 3 lần, tối thiểu 500 CNY; mục 10 chương 6 về nhãn thực phẩm bảo vệ sức khỏe không thay thuốc; và nửa câu ở mục 7 chương 12 về phép kinh doanh thực phẩm hoặc đăng ký nếu chỉ bán đóng gói sẵn. Bốn chủ đề mới chưa có mục riêng.
+
+Thêm mục 31 chương 5 sau mục 30 về hàng mua livestream; đổi 31–34 cũ thành 32–35. Thêm mục 8–10 chương 12 về phép, nhãn, công dụng chữa bệnh sau mục 7; đổi 8–19 cũ thành 11–22; ghi chú mục 7 dẫn mục 8 mới. Thịt lợn/giấy kiểm dịch nằm ở mục 8 vì người bán cần kiểm tra chứng nhận kèm hàng chứ không tự xin thay nơi giết mổ. Nhãn thực phẩm rời nằm cùng mục 9. Kiểm tra tham chiếu đạt 321 chỗ, từng dòng bảng chỉ đổi số, không đổi tiêu đề đích. Số mục trong hồ sơ là số lịch sử.
+
+## Nguồn đã đối chiếu từng chữ
+
+| URL | Kết quả | Nội dung kiểm chứng, dịch sang tiếng Việt |
+|---|---|---|
+| <https://flk.npc.gov.cn/detail?id=7b5a76d0461745a08d3f964916b87ef3> | Cơ sở dữ liệu pháp luật quốc gia; Luật An toàn thực phẩm sửa lần 3 ngày 12/09/2025, hiệu lực 01/12/2025, trạng thái 3. Tải DOCX qua API, đối chiếu. | Điều 35: sản xuất, bán thực phẩm, dịch vụ ăn uống phải có phép; bán nông sản ăn được hoặc chỉ thực phẩm đóng gói sẵn không cần phép; loại chỉ đóng gói sẵn phải đăng ký với cơ quan quản lý an toàn thực phẩm địa phương từ cấp huyện. Khoản 3 Điều 36: xưởng nhỏ và quầy thực phẩm theo quy định tỉnh. Điều 67: chín nội dung bắt buộc nhãn đóng gói sẵn, gồm tên, quy cách, khối lượng tịnh, ngày sản xuất, hạn dùng, số phép sản xuất. Điều 68: thực phẩm rời ghi tên, ngày sản xuất hoặc lô, hạn dùng, tên/địa chỉ/liên hệ người sản xuất kinh doanh. Điều 71: nhãn/hướng dẫn không có thông tin giả, không nói phòng/chữa bệnh. Điều 73: quảng cáo phải thật, hợp pháp, không có nội dung giả hay phòng/chữa bệnh. Điều 122: không có phép, giá trị hàng dưới 10.000 CNY bị phạt 50.000–100.000 CNY; từ 10.000 CNY thì 10–20 lần giá trị. Điều 125 khoản 1 mục 2: hàng đóng gói sẵn không nhãn hoặc nhãn sai luật, dưới 10.000 CNY phạt 5.000–50.000 CNY, từ 10.000 CNY phạt 5–10 lần. Khoản 2: lỗi nhãn không ảnh hưởng an toàn, không gây hiểu lầm thì buộc sửa; từ chối sửa phạt không quá 2.000 CNY. Khoản 2 Điều 148: ngoài bồi thường thiệt hại có thể đòi 10 lần giá mua hoặc 3 lần thiệt hại; phần bồi thường thêm dưới 1.000 CNY tính 1.000 CNY; loại trừ lỗi nhãn không ảnh hưởng an toàn/không gây hiểu lầm. |
+| <http://gongbao.court.gov.cn/Details/bf531a70471f10d377788f28d3d8f8.html> | Công báo Tòa án tối cao, giải thích pháp luật 9/2024, hiệu lực 22/08/2024. | Khoản 2 Điều 1: không có chứng cứ người mua biết thực phẩm không đạt an toàn mà vẫn mua, tòa tính bồi thường trừng phạt 10 lần trên giá thực trả theo yêu cầu. Khoản 1 Điều 4 áp dụng cả đồ xưởng nhỏ/quầy bán không đạt an toàn. Điều 8 loại trừ lỗi nhãn như cỡ/kiểu/chiều cao chữ sai, thừa/thiếu/sai chữ hoặc dịch ngoại ngữ chưa chính xác nhưng không gây hiểu lầm về an toàn; cách ghi khối lượng/quy cách sai dạng; thiếu điều kiện bảo quản khi thực phẩm không có yêu cầu đặc biệt. Điều 12: người biết hàng không đạt mà vẫn mua chỉ được hỗ trợ trong nhu cầu tiêu dùng sinh hoạt hợp lý. Điều 13–14: mua liên tục/kiện nhiều lần thì xét tổng lượng trong phạm vi này. |
+| <https://www.gov.cn/zhengce/zhengceku/2021-07/22/content_5626534.htm> | Lệnh Quốc vụ viện 742 về giết mổ lợn, hiệu lực 01/08/2021. | Điều 2: giết mổ tại cơ sở chỉ định, kiểm dịch tập trung; ngoại lệ người ở nông thôn tự giết để tự ăn. Điều 23: người bán, chế biến, dịch vụ ăn uống và bếp ăn tập thể phải dùng sản phẩm từ cơ sở chỉ định đạt kiểm dịch và kiểm tra chất lượng thịt. Điều 31: giết mổ không được chỉ định bị đóng cửa, tịch thu lợn, sản phẩm, công cụ/thiết bị và lợi bất hợp pháp; giá trị dưới 10.000 CNY phạt 50.000–100.000 CNY, từ 10.000 CNY phạt 10–20 lần. |
+| <https://flk.npc.gov.cn/detail?id=ff8080817703add2017737395a973e31> | Luật Phòng dịch động vật sửa 2021, trạng thái 3, còn hiệu lực. | Điều 51: động vật giết mổ, kinh doanh, vận chuyển hoặc dùng cho nghiên cứu, biểu diễn, trưng bày, thi đấu phải có chứng nhận kiểm dịch; sản phẩm động vật kinh doanh/vận chuyển phải có chứng nhận và dấu kiểm dịch. Khoản 1 Điều 100: thiếu chứng nhận/dấu thì buộc sửa, phạt đến một lần giá trị động vật/sản phẩm cùng loại đạt kiểm dịch. |
+| <https://flk.npc.gov.cn/detail?id=ff8081817ab231eb017abd6bd860052d> | Luật Quảng cáo sửa 2021, còn hiệu lực. | Điều 17: trừ quảng cáo y tế, thuốc, thiết bị y tế, quảng cáo khác không được nói điều trị bệnh hoặc dùng thuật ngữ gây lẫn hàng với thuốc/thiết bị. Khoản 1 mục 2 Điều 58: vi phạm phạt 1–3 lần chi phí quảng cáo; không tính được hoặc quá thấp thì 100.000–200.000 CNY; nghiêm trọng phạt 3–5 lần, không tính được/quá thấp thì 200.000–1 triệu CNY, có thể thu hồi đăng ký kinh doanh. |
+| <https://jkw.lasa.gov.cn/wswyh/wjzl/202504/a90766908ef24869a74f7373bf42463f.shtml> | Ủy ban Y tế Lhasa đăng toàn văn thông báo 2/2025 của cơ quan y tế và quản lý thị trường quốc gia. | Công bố 50 tiêu chuẩn an toàn thực phẩm quốc gia, gồm GB 7718-2025 về nhãn thực phẩm đóng gói sẵn, cùng 9 bản sửa. |
+| <https://scjgj.beijing.gov.cn/zwxx/scjgdt/202605/t20260507_4639154.html> | Cơ quan quản lý thị trường Bắc Kinh,07/05/2026. | GB 7718-2025 công bố 16/03/2025, hiệu lực 16/03/2027, chuyển tiếp 2 năm. Bao bì phải có vùng riêng cùng hiển thị ngày sản xuất/ngày hết hạn; dùng chữ/màu tương phản, dễ đọc, theo thứ tự năm-tháng-ngày. |
+
+## Hai nhận định cần sửa
+
+Có tóc trong thức ăn không tự động đủ điều kiện bồi thường 10 lần, tối thiểu 1.000 CNY. Phải là thực phẩm không đạt tiêu chuẩn an toàn; dị vật có đủ ngưỡng này thường cần cơ quan quản lý hoặc giám định xác định. Lỗi nhãn không ảnh hưởng an toàn/không gây hiểu lầm bị loại trừ rõ ở luật và Điều 8 giải thích 9/2024.
+
+Bồi thường 10 lần không hỗ trợ mua lượng không giới hạn. Biết hàng không đạt, mua liên tục, kiện lặp thì tòa chỉ xét nhu cầu sinh hoạt hợp lý. Người mua bình thường để ăn tính trên giá thực trả theo khoản 2 Điều 1. Hiểu đơn giản và ghi chú đều có hai giới hạn.
+
+## Cấp bằng chứng và lợi ích
+
+Bốn mục xếp A vì luật, quy định hành chính và giải thích tư pháp hiện hành đối chiếu được điều kiện, mức phạt, tiền.
+
+Mục 31 chương 5 lợi ích vừa theo tiền, từ hàng trăm đến hàng nghìn CNY, tối thiểu 1.000 và 10 lần giá tùy hàng; tiền 0, thời gian ít, kiên trì một phần. Mục 8–10 chương 12 lợi ích vừa theo quyền tự do vì tránh xử phạt hành chính, chưa nói hình sự; không đổi mức lợi ích theo tiền dù mức phạt hàng chục nghìn. Chi phí lần lượt tiền thấp/thời gian vừa/không cần lâu dài; tiền thấp/thời gian vừa/không cần lâu dài; tiền 0/thời gian ít/kiên trì một phần.
+
+Người hưởng lợi ở mục chương 5 là bản thân và gia đình. Ba mục chương 12 hữu ích cho người kinh doanh thực phẩm, vẫn là lợi ích của mình nhưng phạm vi hẹp nên đặt ở chương kinh doanh.
+
+## Chưa đưa vào bản đầu
+
+Không nêu ngưỡng/phí riêng hơn 30 quy định cấp tỉnh về xưởng, quán nhỏ và quầy bán vì khác nhau, thường đổi; chỉ hướng dẫn tra website quản lý thị trường tỉnh. Chưa có toàn văn GB 7718-2025, chỉ đối chiếu thông báo và giải thích về ngày công bố, hiệu lực, chuyển tiếp, hiển thị ngày; phải theo bản tiêu chuẩn gốc. Trách nhiệm của nền tảng giao dịch thực phẩm bên thứ ba, như Điều 62, thuộc chương 26 nên không lặp. Hai tội thực phẩm không an toàn và nguyên liệu độc ban đầu để đợt riêng, không thêm hình phạt chưa kiểm chứng vào bốn mục hành chính.
+
+## Ghi chú công cụ
+
+`gongbao.court.gov.cn` mở được và lấy toàn văn giải thích, khác kết luận cũ thường 502; ghi nhớ được cập nhật. API tìm kiếm `flk.npc.gov.cn` cần chuyển JSON thành byteUTF-8 trước POST; gửi chuỗi trực tiếp trong PowerShell khiến `searchContent` thành null và trả 0 kết quả.
+
+## Bổ sung hình sự cùng ngày: mục 11 chương 12
+
+Tác giả yêu cầu bổ sung phần hình sự còn thiếu, nên thêm mục 11 sau mục 10 về không quảng cáo chữa bệnh. Mục 11–22 cũ thành 12–23; mục 31 chương 5 đổi tham chiếu phía bán từ mục 8–10 thành 8–11. Kiểm tra tham chiếu đạt 344 chỗ.
+
+| URL | Đối chiếu | Nội dung kiểm chứng, dịch sang tiếng Việt |
+|---|---|---|
+| <https://flk.npc.gov.cn/detail?id=ff808181796a636a0179822a19640c92> | Bộ luật Hình sự sửa 26/12/2020, hiệu lực 01/03/2021, trạng thái 3; DOCX đối chiếu. | Điều 143: sản xuất/bán thực phẩm không đạt an toàn đủ gây ngộ độc hoặc bệnh do thực phẩm nghiêm trọng bị tù không quá 3 năm hoặc giam giữ hình sự, kèm phạt tiền; hại sức khỏe nghiêm trọng hoặc tình tiết nghiêm trọng khác thì 3–7 năm và phạt tiền; hậu quả đặc biệt nghiêm trọng thì trên 7 năm hoặc chung thân, kèm phạt tiền/tịch thu tài sản. Điều 144: trộn nguyên liệu không phải thực phẩm có độc/hại, hoặc biết mà bán, bị tù không quá 5 năm và phạt tiền; hại nghiêm trọng/tình tiết nặng thì 5–10 năm và phạt tiền; gây chết hoặc đặc biệt nghiêm trọng theo Điều 141: trên 10 năm, chung thân hoặc tử hình. |
+| <https://scjg.hebei.gov.cn/info/79117>, <https://sft.ln.gov.cn/sft/ywgz/zfflgw/xzys/2525860BD0F843EFA7A3B7FDC330614E/index.shtml> | Quản lý thị trường Hà Bắc và Tư pháp Liêu Ninh đăng toàn văn giải thích 24/2021; hai bản khớp. | Điều 1 liệt kê đủ gây ngộ độc/bệnh nghiêm trọng, gồm vi sinh gây bệnh, dư thuốc trừ sâu/thú y, độc tố sinh học, kim loại nặng vượt giới hạn nghiêm trọng; thịt/sản phẩm từ gia súc, gia cầm, thú, thủy sản chết bệnh, không rõ nguyên nhân hoặc không đạt kiểm dịch. Điều 5: lạm dụng phụ gia vượt mức/phạm vi đủ gây hậu quả này theo Điều 143. Điều 7 mục 4: sản xuất/bán 100.000 đến dưới 200.000 CNY và bán cho trẻ/người cao tuổi ở hoặc quanh trường học, cơ sở giữ trẻ, dưỡng lão là tình tiết nghiêm trọng khác của Điều 144. Điều 9 định nghĩa nguyên liệu không phải thực phẩm độc/hại. Điều 17: tự lập cơ sở giết mổ lợn, kinh doanh giết/bán, nghiêm trọng thì tội kinh doanh trái phép theo Điều 225. Điều 18: giá trị kinh doanh trái phép từ 100.000 CNY hoặc lợi bất hợp pháp từ 50.000 CNY là nghiêm trọng. |
+
+Trang Công báo `gongbao.court.gov.cn/Details/ac986b4995a8eeda9acc669fb536e0.html` báo 502, dù trước đó cùng ngày lấy giải thích 9/2024 được; là lỗi gián đoạn. Trang `court.gov.cn` dùng dựng nội dung phía trình duyệt, Chrome không giao diện cũng chỉ lấy khung trống. Vì vậy dùng hai bản chính thức cấp tỉnh, đối chiếu nhau.
+
+Mục hình sự xếp A; luật và giải thích chính thức đối chiếu được khung phạt, ngưỡng, tình huống. Lợi ích lớn theo tự do vì tránh hình sự. Tiền 0, thời gian ít, không cần kiên trì lâu dài: dùng bước kiểm nguồn và giữ chứng từ ở mục 8, không thêm hành động.
+
+Chưa bàn quan hệ giữa tội hàng giả/kém chất lượng và tội thực phẩm, cơ chế phạt cả đơn vị và cá nhân, tội cơ quan quản lý thiếu trách nhiệm không phù hợp người đọc, hay tội quảng cáo giả về thực phẩm bảo vệ sức khỏe; gộp với mục 10 hành chính sẽ làm lẫn các mức trách nhiệm.

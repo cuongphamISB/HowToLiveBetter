@@ -1,0 +1,27 @@
+name: Báo nội dung sai hoặc đã cũ
+description: Sai số liệu, quy định thay đổi, nguồn không mở được hoặc cách diễn đạt sai
+title: "Chương X, mục Y: "
+labels: ["correction"]
+body:
+  - type: input
+    id: where
+    attributes:
+      label: Chương và mục
+      description: Ví dụ chương 32, mục 2.
+      placeholder: Chương X, mục Y
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Nội dung cần sửa
+      description: Trích câu đang sai và giải thích nên sửa như thế nào.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Nguồn đối chiếu
+      description: Bài báo gốc với DOI/PubMed, văn bản luật hoặc trang chính thức. Không dùng bài kể lại từ mạng xã hội hay trang tổng hợp.
+    validations:
+      required: true

@@ -1,0 +1,25 @@
+# Bị công kích trên mạng thì làm gì: hồ sơ kiểm chứng ngày 09/09/2026
+
+Sau khi phân tích phần thứ sáu về lan truyền tiếp và công kích trên mạng trong [bài giúp người lạ gặp nạn](../giup-nguoi-la.md), tác giả hỏi có nên thêm một mục riêng hướng dẫn người đang bị công kích hay không.
+
+Sách lúc đó chỉ có nửa câu ở mục 15 chương 8: bị công kích thì lưu chứng cứ rồi báo công an. Nội dung chính của mục này là không trở thành người tung tin đồn, xúc phạm người khác; phía nạn nhân chưa có hướng dẫn đầy đủ. Tìm toàn sách chỉ thấy một chỗ này, chưa có lệnh cấm xâm phạm quyền nhân thân, công khai thông tin cá nhân để tấn công hoặc công cụ lấy chứng cứ nhanh. Quy định quản lý thông tin bạo lực trên mạng mới nằm trong bài dài, chưa có trong sách. Đây là khoảng trống cần bổ sung.
+
+Thêm mục 35 ở cuối chương 8, thay vì chen sau mục 14. Các mục 30–34 đã là nhóm xử lý khi bị xâm phạm: tống tiền, vu cáo, chứng cứ không đủ, bồi thường nhà nước và đòi bồi thường khi là nạn nhân. Mục mới tiếp nối nhóm đó. Chen giữa chương phải đổi số 20 mục,8 tham chiếu ngoài chương và 11 tham chiếu nội bộ; thêm cuối không cần đổi số. Ghi chú mục 14 thêm liên kết đến mục 35. Phần bảng nguồn của hồ sơ gốc lại ghi mục 36; giữ cả hai số lịch sử để phản ánh đúng hồ sơ.
+
+## Nguồn cho mục 36 chương 8 theo tiêu đề bảng gốc
+
+| URL | Đối chiếu | Nội dung đã kiểm chứng, dịch sang tiếng Việt |
+|---|---|---|
+| <https://www.court.gov.cn/zixun/xiangqing/412992.html> | Có; toàn văn hướng dẫn xử lý vi phạm và tội phạm bạo lực trên mạng, văn bản số 14 năm 2023 trên website Tòa án tối cao. | Điều 4: tổ chức tìm và công khai thông tin cá nhân, thu thập trái phép rồi đăng cho số đông không xác định, nếu nghiêm trọng và đủ Điều 253-1 Bộ luật Hình sự thì xử tội xâm phạm thông tin cá nhân. Điều 11: trong vụ tự khởi tố về xúc phạm/phỉ báng trên mạng, nếu nạn nhân thực sự khó thu thập chứng cứ, tòa có thể yêu cầu công an hỗ trợ. Công an phải làm rõ người thực hiện, mức lan truyền và ảnh hưởng; nhà cung cấp mạng hỗ trợ kỹ thuật theo luật. Đủ điều kiện thụ lý sau hỗ trợ thì tòa phải lập vụ; không thu được chứng cứ thì công an giải thích bằng văn bản. Điều 12: năm nhóm nghiêm trọng gây hại trật tự xã hội theo khoản 2 Điều 246 gồm hậu quả như rối loạn tâm thần/tự sát kèm ảnh hưởng xã hội xấu; tùy tiện nhắm người dân bình thường gây nhiều bình luận ác ý, thô tục; xúc phạm/phỉ báng nhiều người hoặc lan truyền nhiều lần; tổ chức người phát tán nhiều trên nhiều nền tảng; và trường hợp khác. Điều 15: nếu có chứng cứ hành vi xâm phạm quyền nhân thân đang hoặc sắp diễn ra, không dừng sẽ gây thiệt hại khó khắc phục, tòa có thể ra lệnh cấm theo Điều 997 Bộ luật Dân sự. |
+| <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml> | Có; Bộ luật Dân sự do Viện Kiểm sát tối cao đăng lại. | Điều 997: chủ thể dân sự có chứng cứ về hành vi trái luật đang hoặc sắp xâm phạm quyền nhân thân, nếu không ngăn sẽ gây thiệt hại khó khắc phục, có quyền đề nghị tòa buộc người đó dừng hành vi. |
+| <https://www.gov.cn/gongbao/2024/issue_11526/202408/content_6969181.html> | Có; Quy định quản lý thông tin bạo lực trên mạng đăng trong Công báo Quốc vụ viện. | Điều 23 quy định tùy chọn bảo vệ; Điều 25 về lấy chứng cứ nhanh và phối hợp công an; Điều 26 về lối báo cáo/khiếu nại nhanh ở vị trí dễ thấy; Điều 15 yêu cầu nền tảng báo công an khi phát hiện dấu hiệu vi phạm/tội phạm. Các câu đối chiếu giống hồ sơ của bài dài trước đó. |
+
+Xếp A: hồ sơ gốc ghi bốn văn bản chính thức còn hiệu lực, dù bảng liệt kê ba URL. Các quy định đưa ra hành động và ngưỡng rõ, gồm năm trường hợp chuyển sang công tố và yêu cầu thụ lý sau khi đủ chứng cứ. Lợi ích mức vừa theo quyền tự do: ngăn xâm phạm và yêu cầu xử lý đối phương, cùng mức với mục 31 về vu cáo. Chi phí tiền 0, thời gian vừa, kiên trì một phần; hiệu quả chi phí thông thường.
+
+Theo yêu cầu phải nói cả chi phí thủ tục khi viện dẫn luật bảo vệ người đọc, ghi chú giải thích: báo nền tảng thường nhanh và ít tốn nhất, ra tòa chậm và tốn hơn, nên lưu chứng cứ và báo trước. Lệnh cấm phải xin tòa; tự khởi tố phải tự nộp vụ và chứng cứ; chuyển công tố phải đủ một trong năm trường hợp ở Điều 12, nếu không thì đi đường tự khởi tố. Không chửi lại vì có thể trở thành người bị xử phạt theo mục 14; không xóa nội dung trên tài khoản của mình vì đó là chứng cứ.
+
+Không đưa số liệu quan hệ giữa công kích trên mạng và tự sát vào sách: phân tích gộp tìm được chủ yếu về thanh thiếu niên, không phù hợp nhóm người và tình huống này. Ghi chú chỉ dẫn số hỗ trợ 12356 ở mục 25 chương 1. Chưa có trang chính thức đối chiếu số báo cáo 12377, nên chỉ viết lối báo cáo nhanh ở vị trí dễ thấy của nền tảng. Chưa lấy được Điều 1195 Bộ luật Dân sự về thông báo/gỡ nội dung từ trang đăng lại của Viện Kiểm sát tối cao; không dẫn, dùng Quy định quản lý thông tin bạo lực trên mạng để giải thích trách nhiệm nền tảng.
+
+## Thống kê lịch sử
+
+Toàn sách 471→472 mục; A 299→300; hiệu quả chi phí thông thường 152→153, rất cao 83 và cao 236 không đổi. Đã đồng bộ số mục, huy hiệu bằng chứng, mô tả chương 8 trên README; năm mô tả, `numberOfPages` và số đầu trang ở `index.html`; cùng mô tả chương 8 trong `CLAUDE.md`.

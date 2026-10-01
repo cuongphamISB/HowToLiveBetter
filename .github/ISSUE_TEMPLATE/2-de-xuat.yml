@@ -1,0 +1,28 @@
+name: Đề xuất bổ sung
+description: Đề xuất chủ đề sách chưa đề cập
+labels: ["new-content"]
+body:
+  - type: markdown
+    attributes:
+      value: Sách ưu tiên gợi ý nêu rõ chi phí và lợi ích, có bài báo gốc hoặc văn bản chính thức làm căn cứ. Đây là kho duy trì bản dịch Việt.
+  - type: input
+    id: topic
+    attributes:
+      label: Chủ đề
+      placeholder: Ví dụ thủ tục công nhận trình độ nghề
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Câu hỏi cần trả lời
+      description: Nêu cụ thể việc cần làm, cơ quan cần liên hệ hoặc giấy tờ cần chuẩn bị.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Nguồn đã biết (không bắt buộc)
+      description: Liên kết bài báo, quy định hoặc tài liệu chính thức.
+    validations:
+      required: false
